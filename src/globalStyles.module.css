@@ -1,0 +1,14 @@
+.heading {
+  margin: 5px;
+  font-size: 1.2rem;
+}
+
+.simpleTag {
+  font-size: 0.7rem;
+  padding: 3px 5px;
+  margin: 5px;
+  background-color: green;
+  color: #ffffff;
+  display: inline-block;
+  border-radius: 5px;
+}

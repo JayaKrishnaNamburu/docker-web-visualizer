@@ -1,0 +1,16 @@
+.dashboardWrapper {
+  width: calc(100% - 200px);
+  height: 100%;
+  margin-left: 200px;
+  background-color: #ffffff;
+  position: absolute;
+  overflow-y: scroll;
+  text-align: left;
+  padding: 15px;
+}
+
+.listWrapper {
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}

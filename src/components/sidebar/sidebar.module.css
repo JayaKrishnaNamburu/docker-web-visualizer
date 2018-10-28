@@ -1,0 +1,27 @@
+.sidebar {
+  position: absolute;
+  width: 200px;
+  background-color: #323645;
+  height: 100%;
+}
+
+.loggedInUser {
+  background-color: #a48ad4;
+  height: 60px;
+  padding: 10px 10px;
+  color: #ffffff;
+  display: flex;
+}
+
+.placeHolder {
+  width: 50px;
+  height: 50px;
+}
+
+.userDetails {
+  margin-left: 10px;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 1rem;
+  font-weight: 400;
+}
